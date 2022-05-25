@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krapeun&show_icons=true&theme=radical)
+
 ## 📫 How to reach me : qkrwldms1127@gmail.com
 ## 💬 My Blog : https://krapeun.tistory.com
 
