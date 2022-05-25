@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me : qkrwldms1127@gmail.com
+## 📫 How to reach me : qkrwldms1127@gmail.com
 
 <!--
 **krapeun/krapeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
