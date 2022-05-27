@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krapeun&show_icons=true&theme=onedark)
 
 + 📫 How to reach me : qkrwldms1127@gmail.com
-+ 💬 My Blog : https://krapeun.tistory.com
++ 💬 My Blog : [Krapeun](https://krapeun.tistory.com)
 
 <!--
 **krapeun/krapeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
