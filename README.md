@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 <a href="https://krapeun.tistory.com">
     <img 
-        src="http://img.shields.io/badge/-Krapeun-09B3AF?style=flat&logo=Storyblok&logoColor=white&link=https://krapeun.tistory.com"
+        src="http://img.shields.io/badge/-Tistory-181717?style=flat&logo=Storyblok&logoColor=white&link=https://krapeun.tistory.com"
         style=for-the-badge/>
 </a>
   
