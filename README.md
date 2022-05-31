@@ -23,15 +23,15 @@ Here are some ideas to get you started:
   
 
   
-<a href="https://krapeun.tistory.com/alpox.dev">
+<a href="https://krapeun.tistory.com">
     <img 
-        src="http://img.shields.io/badge/-Krapeun-09B3AF?style=flat&logo=Storyblok&logoColor=white&link=https://krapeun.tistory.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Krapeun-09B3AF?style=flat&logo=Storyblok&logoColor=white&link=https://krapeun.tistory.com"
         style=for-the-badge/>
 </a>
   
-<a href="mailto:qkrwldms1127@gmail.com/alpox.dev">
+<a href="mailto:qkrwldms1127@gmail.com">
     <img 
-        src="http://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:qkrwldms1127@gmail.com/alpox.dev/"
+        src="http://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:qkrwldms1127@gmail.com"
         style=for-the-badge/>
 </a>
   
