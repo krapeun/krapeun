@@ -25,13 +25,13 @@ Here are some ideas to get you started:
   
 <a href="https://krapeun.tistory.com">
     <img 
-        src="http://img.shields.io/badge/-Tistory-181717?style=flat&logo=Storyblok&logoColor=white&link=https://krapeun.tistory.com"
+        src="http://img.shields.io/badge/-Tistory-181717?style=for-the-badge&logo=Storyblok&logoColor=white&link=https://krapeun.tistory.com"
         style=for-the-badge/>
 </a>
   
 <a href="mailto:qkrwldms1127@gmail.com">
     <img 
-        src="http://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:qkrwldms1127@gmail.com"
+        src="http://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qkrwldms1127@gmail.com"
         style=for-the-badge/>
 </a>
   
@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <h3 align="center"><b>📚 STUDYING 📚</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> &nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style-flat&logo=c%2B%2B&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> &nbsp
   
