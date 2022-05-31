@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style-flat&logo=c%2B%2B&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white"/></a> &nbsp 
