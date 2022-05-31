@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krapeun&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkrwldms1127@gmail.com)](mailto:qkrwldms1127@gmail.com)
