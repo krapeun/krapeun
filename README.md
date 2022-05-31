@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krapeun&show_icons=true&theme=slateorange)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krapeun&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krapeun&show_icons=true&theme=ayu-mirage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krapeun&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
