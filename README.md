@@ -34,14 +34,16 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qkrwldms1127@gmail.com"
         style=for-the-badge/>
 </a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrapeun%2Fhit-counter&count_bg=%23DFCF54&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   
 ------
 
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krapeun&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krapeun&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krapeun&show_icons=true&theme=slateorange)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krapeun&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
