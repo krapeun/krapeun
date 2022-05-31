@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 
   
-<a href="[mailto:qkrwldms1127@gmail.com](https://krapeun.tistory.com)/alpox.dev">
+<a href="(https://krapeun.tistory.com)/alpox.dev">
     <img 
         src="http://img.shields.io/badge/-Krapeun-09B3AF?style=flat&logo=Storyblok&logoColor=white&link=https://krapeun.tistory.com/alpox.dev/"
         style=for-the-badge/>
