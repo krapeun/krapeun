@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 
 
+  <!--
 <h3 align="center"><b>📚 STUDYING 📚</b></h3>
 </br>
 <p align="center">
@@ -60,3 +61,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"> &nbsp
   
+-->
