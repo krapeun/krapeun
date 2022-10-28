@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-# Krapeun 🐥🐣👩‍💻🎨🎧🥁🎹🎥📸
+# Studying 🐣
   
   
   
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krapeun&show_icons=true&theme=ayu-mirage)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krapeun&show_icons=true&theme=ayu-mirage)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krapeun&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 
